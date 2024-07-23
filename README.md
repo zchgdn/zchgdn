@@ -1,4 +1,4 @@
-# Zach Godin
+# おはいよう, I'm Zach Godin!
 I'm a Web Designer & Developer based in the UK with over 12 years of experience. I'm currently a Lead Designer at <a href="https://whethamsolutions.com" target="_blank">Whetham Solutions</a>.
 
 ## My Links
