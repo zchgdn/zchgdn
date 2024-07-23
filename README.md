@@ -1,5 +1,5 @@
 # Zach Godin
-I'm a Web Designer & Developer based in Redditch, UK with over 12 years of experience. I'm currently a Lead Designer at [Whetham Solutions](https://whethamsolutions).
+I'm a Web Designer & Developer based in the UK with over 12 years of experience. I'm currently a Lead Designer at <a href="https://whethamsolutions.com" target="_blank">Whetham Solutions</a>.
 
 ## My Links
 * [🚀 Portfolio (Under Construction)](https://zch.gdn)
