@@ -2,7 +2,7 @@
 I'm a Web Designer & Developer based in the UK with over 12 years of experience. I'm currently a Senior Web Designer at <a href="https://whethamsolutions.com" target="_blank">Whetham Solutions</a>.
 
 ## My Links
-* [🚀 Portfolio (Under Construction)](https://zch.gdn)
+* [🚀 Portfolio (Under Construction)](https://zachgod.in)
 * [🎨 Dribbble](https://dribbble.com/zchgdn)
 * [💼 LinkedIn](https://www.linkedin.com/in/zchgdn/)
 
